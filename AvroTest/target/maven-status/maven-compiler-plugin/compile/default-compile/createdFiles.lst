@@ -1,0 +1,16 @@
+schema\User.class
+MapReduceColorCount$ColorCountReducer.class
+com\miguno\avro\hadoop\TweetCountMapper.class
+com\miguno\avro\util\AvroDataComparer.class
+MapReduceColorCount.class
+schema\User$Builder.class
+com\miguno\avro\hadoop\TweetCountReducer.class
+com\miguno\avro\Tweet$1.class
+UserSerialzNDeserialz.class
+MapReduceColorCount$ColorCountMapper.class
+com\miguno\avro\Tweet.class
+AvroWithoutCodeGenration.class
+schema\User$1.class
+com\miguno\avro\hadoop\TweetCount.class
+com\miguno\avro\hadoop\ExitCode.class
+com\miguno\avro\Tweet$Builder.class
